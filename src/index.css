@@ -1,0 +1,53 @@
+body {
+    background-color: #282D35;
+    color: white;
+    font-family: Inter, sans-serif;
+}
+
+.info-div {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    align-items: center;
+}
+
+.about-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
+.photo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+}
+.name-text {
+}
+
+.title-text {
+}
+
+.portfolio-link {
+}
+
+.about-text {
+    max-width: 400px;
+}
+
+.button-container {
+    padding-top: 25px;
+}
+
+.btn {
+    margin: 20px;
+    padding: 10px;
+}
