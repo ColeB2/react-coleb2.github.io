@@ -1,53 +1,44 @@
 body {
-    background-color: #282D35;
-    color: white;
-    font-family: Inter, sans-serif;
+    background-color: rgb(240,240,240);
+
 }
 
-.info-div {
-    display: flex;
-    justify-content: center;
-    margin: auto;
-    align-items: center;
-}
-
-.about-div {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin: auto;
+#main-container {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 15%;
+    margin: 0 auto;
+    width: 500px;
+    text-align: center;
 }
 
 .photo {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 35%;
-
+    width: 200px;
 }
 
-.center {
-    display: flex;
-    justify-content: center;
-}
-.name-text {
-}
+a {
+    color: rgb(102,111,207);
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: rgb(3,29,53);
+  }
 
-.title-text {
+.icon:hover {
+    transform: scale(1.1);
+  }
+  
+#icons {
+    margin: 0;
+    padding: 0;
 }
-
-.portfolio-link {
+  
+#icons > li {
+    display: inline-block;
+    padding: 0 6px;
 }
-
-.about-text {
-    max-width: 400px;
-}
-
-.button-container {
-    padding-top: 25px;
-}
-
-.btn {
-    margin: 20px;
-    padding: 10px;
+#icons > li > a > img {
+    width: 30px;
 }
