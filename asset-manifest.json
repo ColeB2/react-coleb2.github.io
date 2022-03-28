@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-coleb2.github.io/static/css/main.c87da536.css",
+    "main.js": "/react-coleb2.github.io/static/js/main.735e2757.js",
+    "static/media/avatar.png": "/react-coleb2.github.io/static/media/avatar.4b69ddb9fa344b564438.png",
+    "index.html": "/react-coleb2.github.io/index.html",
+    "static/media/github.svg": "/react-coleb2.github.io/static/media/github.22e65707326e3e1e37afd21c5334995a.svg",
+    "static/media/briefcase-fill.svg": "/react-coleb2.github.io/static/media/briefcase-fill.94d2666d1324e4f164e9dd6a44e426c7.svg",
+    "main.c87da536.css.map": "/react-coleb2.github.io/static/css/main.c87da536.css.map",
+    "main.735e2757.js.map": "/react-coleb2.github.io/static/js/main.735e2757.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c87da536.css",
+    "static/js/main.735e2757.js"
+  ]
+}
